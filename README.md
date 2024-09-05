@@ -1,5 +1,7 @@
 # Fast React Pizza
 
+![Fast-React-Pizza](public/Order-page.png)
+
 Pick pizza you want, make order and track progress!
 
 [Live Demo](https://fast-react-pizza-lime-seven.vercel.app/)
